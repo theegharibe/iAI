@@ -1,0 +1,11 @@
+{
+  "model_name": "phi3:mini",
+  "lora_r": 8,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "learning_rate": 0.0002,
+  "num_epochs": 3,
+  "batch_size": 4,
+  "max_seq_length": 512,
+  "training_device": "cpu"
+}
